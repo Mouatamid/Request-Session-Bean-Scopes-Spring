@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "server.session.timeout",
+      "type": "java.lang.String",
+      "description": "Description for server.session.timeout."
+    },
+    {
+      "name": "server.session.cookie.max-age",
+      "type": "java.lang.String",
+      "description": "Description for server.session.cookie.max-age."
+    }
+  ] }
